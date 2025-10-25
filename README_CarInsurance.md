@@ -134,9 +134,6 @@ car-insurance-prediction/
 
 **Sebastian Sanchez Espinosa**
 - 🎓 Python Data Associate - DataCamp Certified
-- 📧 [Tu email]
-- 💼 [Tu LinkedIn]
-- 🌐 [Tu portafolio]
 
 ## 📄 Licencia
 
